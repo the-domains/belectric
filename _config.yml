@@ -1,0 +1,14 @@
+layout_spectrum: 0.37533243326470256
+typography_spectrum: 0.04225996229797602
+color:
+  brandStrength: 0.8993732747621834
+  lightness: 0.6218225522898138
+  saturation: 0.4981941534206271
+  rhythmicContrast: 0.43227606709115207
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: belectric
